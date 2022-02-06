@@ -20,7 +20,6 @@
     - 오버피팅 개요
     - 오버피팅 완화법 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_in_keras_overfitting.ipynb)
     - callback : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_in_keras_overfitting.ipynb)
-    - 데이터 크기와 성능 TODO
 - 성능 측정
     - 지표 종류
     - 보고서 작성을 위한 AUC, ROC, confusion matrix : [roc_auc_confusion_matric.ipynb](../material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/roc_auc_confusion_matric.ipynb)
@@ -35,8 +34,11 @@
     - Sequence DataGenerator : [financial_data_predict_commodity_price.ipynb](../material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
 - 작업 별
     - 물체 탐지
-        - 데이터 준비와 레이블링 TODO
-        - 학습 실행과 사용 TODO
+        - 데이터 준비와 레이블링
+        - 학습 실행과 사용
+            -  학습 : [train_yolov3_raccoon_train.ipynb](train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/train_yolov3_raccoon_train.ipynb)
+            - 탐지 실행 : [keras_yolov3_custom_model.ipynb](keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/keras_yolov3_custom_model.ipynb)
+
     - 영상 영역 분할
         - U-Net을 사용한 영상 분할 : [unet_segementation.ipynb](../material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_segementation.ipynb)
             - U-Net을 사용한 영상 분할 실습 - 거리 영상 : [unet_setmentation_practice.ipynb](../material/deep_learning/unet_setmentation_practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_setmentation_practice.ipynb)
