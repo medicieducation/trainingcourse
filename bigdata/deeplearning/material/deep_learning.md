@@ -93,8 +93,8 @@
         - 속성 데이터 이상 탐지 : [financial_data_detect_fraud_card.ipynb](../material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
         - 영상 데이터 이상 탐지 : [anomaly_detection_fahsion_mnist.ipynb](../material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) 
 
-  - 포즈 추출 : [open_pose_using_template.ipynb](../material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/open_pose_using_template.ipynb)
-  - 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
+    - 포즈 추출 : [open_pose_using_template.ipynb](../material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/open_pose_using_template.ipynb)
+    - 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
 - 기타
     - GAN
     - 강화 학습
