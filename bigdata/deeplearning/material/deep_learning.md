@@ -26,12 +26,14 @@
 - 데이터
     - 기본 작업(회귀와 분류)과 심화 작업
     - 데이터 종류와 작업
-    - 데이터의 종류 : 속성 / 영상 / 수치 순차열, 문자 순차열 / 소리 / 자연어
     - 데이터 전처리 4가지
     - Data Generator : [custom_data_generator.ipynb](../material/deep_learning/custom_data_generator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/custom_data_generator.ipynb)
     - TensorFlow DataSet : [tensorflow_data_tfds.ipynb](../material/deep_learning/tensorflow_data_tfds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/tensorflow_data_tfds.ipynb)
     - ImageDataGenerator : [data_augmentation_using_ImageDadtaGenerator.ipynb](../material/deep_learning/data_augmentation_using_ImageDadtaGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/data_augmentation_using_ImageDadtaGenerator.ipynb) 
-    - Sequence DataGenerator : [financial_data_predict_commodity_price.ipynb](../material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
+    - Sequence DataGenerator
+        - [financial_data_predict_commodity_price.ipynb](../material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
+        - [weather_forecasting.ipynb](../material/deep_learning/weather_forecasting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/weather_forecasting.ipynb)        
+
 - 작업 별
     - 물체 탐지
         - 데이터 준비와 레이블링
@@ -85,7 +87,6 @@
         - 다중 숫자열 분류 : [template_multi_numeric_sequence_data_classification.ipynb](../material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) 
         - 다중 숫자열 다중 예측 : [template_multi_numeric_sequence_data_multi_prediction.ipynb](../material/deep_learning/template_multi_numeric_sequence_data_multi_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_multi_numeric_sequence_data_multi_prediction.ipynb)
         - 다중 숫자열 단일 예측 : [template_multi_numeric_sequence_data_one_prediction.ipynb](../material/deep_learning/template_multi_numeric_sequence_data_one_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_multi_numeric_sequence_data_one_prediction.ipynb)
-        - sequence DataGenerator : [weather_forecasting.ipynb](../material/deep_learning/weather_forecasting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/weather_forecasting.ipynb)        
     - 문자열
         - 문자열 예측 : [template_text_sequence_data_prediction.ipynb](../material/deep_learning/template_text_sequence_data_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_text_sequence_data_prediction.ipynb)
         - 문자열 분류 : [template_text_sequence_data_classification.ipynb](../material/deep_learning/template_text_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_text_sequence_data_classification.ipynb)
