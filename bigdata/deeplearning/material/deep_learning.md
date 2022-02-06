@@ -24,7 +24,7 @@
     - 지표 종류
     - 보고서 작성을 위한 AUC, ROC, confusion matrix : [roc_auc_confusion_matric.ipynb](../material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/roc_auc_confusion_matric.ipynb)
 - 데이터
-    - 기본 작업(회귀와 분류)과 심화 작업
+    - 기본 작업(회귀와 분류)과 활용 작업
     - 데이터 종류와 작업
     - 데이터 전처리 4가지
     - Data Generator : [custom_data_generator.ipynb](../material/deep_learning/custom_data_generator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/custom_data_generator.ipynb)
@@ -33,36 +33,6 @@
     - Sequence DataGenerator
         - [financial_data_predict_commodity_price.ipynb](../material/deep_learning/financial_data_predict_commodity_price.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/financial_data_predict_commodity_price.ipynb) 
         - [weather_forecasting.ipynb](../material/deep_learning/weather_forecasting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/weather_forecasting.ipynb)        
-
-- 작업 별
-    - 물체 탐지
-        - 데이터 준비와 레이블링
-        - 학습 실행과 사용
-            -  학습 : [train_yolov3_raccoon_train.ipynb](train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/train_yolov3_raccoon_train.ipynb)
-            - 탐지 실행 : [keras_yolov3_custom_model.ipynb](keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/keras_yolov3_custom_model.ipynb)
-
-    - 영상 영역 분할
-        - U-Net을 사용한 영상 분할 : [unet_segementation.ipynb](../material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_segementation.ipynb)
-            - U-Net을 사용한 영상 분할 실습 - 거리 영상 : [unet_setmentation_practice.ipynb](../material/deep_learning/unet_setmentation_practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_setmentation_practice.ipynb)
-            - U-Net을 사용한 영상 분할 실습 - MRI : [MRI_images.zip](https://github.com/dhrim/deep_learning_data/raw/master/MRI_images.zip)        
-        - M-Net을 사용한 영상 분할 : [mnet_segementation.ipynb](../material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/mnet_segementation.ipynb)
-        - U-Net을 사용한 컬러 영상 분할 : [unet_segementation_color_image.ipynb](../material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_segementation_color_image.ipynb)      
-
-    - 추천
-        - 추천 기반 원리 : [recommendation.ipynb](../material/deep_learning/recommendation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/recommendation.ipynb) 
-        - TensorFlow Recommenations : [TFRS_recommendation_template.ipynb](../material/deep_learning/TFRS_recommendation_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/TFRS_recommendation_template.ipynb)
-        - 영상 검색 : [image_search_by_ConvAutoEncoder.ipynb](../material/deep_learning/image_search_by_ConvAutoEncoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/image_search_by_ConvAutoEncoder.ipynb)  
-        - 소리 검색 : [sound_search_urban_sound.ipynb](../material/deep_learning/sound_search_urban_sound.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/sound_search_urban_sound.ipynb)
-    - 노이즈 제거 : [denoising_autoencoder.ipynb](../material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/denoising_autoencoder.ipynb)
-    - 이상탐지
-        - 이상탐지 기반 원리
-        - 속성 데이터 이상 탐지 : [financial_data_detect_fraud_card.ipynb](../material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
-        - 영상 데이터 이상 탐지 : [anomaly_detection_fahsion_mnist.ipynb](../material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) 
-
-  - 포즈 추출 : [open_pose_using_template.ipynb](../material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/open_pose_using_template.ipynb)
-  - 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
-  - GAN
-  - 강화 학습
 - 속성 데이터
     - 예측 : [template_attribute_data_regression.ipynb](../material/deep_learning/template_attribute_data_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_attribute_data_regression.ipynb)
     - 분류 : [template_attribute_data_classification.ipynb](../material/deep_learning/template_attribute_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_attribute_data_classification.ipynb)
@@ -98,8 +68,37 @@
     - 한글 단어열 분류 : [template_korean_word_sequence_data_classification.ipynb](../material/deep_learning/template_korean_word_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_korean_word_sequence_data_classification.ipynb)
     - Bert를 사용한 한글 문장 간 관계 분류 : [korean_sentence_relation_classification_with_bert.ipynb](../material/deep_learning/korean_sentence_relation_classification_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/korean_sentence_relation_classification_with_bert.ipynb)
     - Bert를 사용한 한글 문장 간 관계값 예측 : [korean_sentence_relation_regression_with_bert.ipynb](../material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb)
+- 작업 별
+    - 물체 탐지
+        - 데이터 준비와 레이블링
+        - 학습 실행과 사용
+            -  학습 : [train_yolov3_raccoon_train.ipynb](train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/train_yolov3_raccoon_train.ipynb)
+            - 탐지 실행 : [keras_yolov3_custom_model.ipynb](keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/master/material/deep_learning/keras_yolov3_custom_model.ipynb)
 
+    - 영상 영역 분할
+        - U-Net을 사용한 영상 분할 : [unet_segementation.ipynb](../material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_segementation.ipynb)
+            - U-Net을 사용한 영상 분할 실습 - 거리 영상 : [unet_setmentation_practice.ipynb](../material/deep_learning/unet_setmentation_practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_setmentation_practice.ipynb)
+            - U-Net을 사용한 영상 분할 실습 - MRI : [MRI_images.zip](https://github.com/dhrim/deep_learning_data/raw/master/MRI_images.zip)        
+        - M-Net을 사용한 영상 분할 : [mnet_segementation.ipynb](../material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/mnet_segementation.ipynb)
+        - U-Net을 사용한 컬러 영상 분할 : [unet_segementation_color_image.ipynb](../material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_segementation_color_image.ipynb)      
 
+    - 추천
+        - 추천 기반 원리 : [recommendation.ipynb](../material/deep_learning/recommendation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/recommendation.ipynb) 
+        - TensorFlow Recommenations : [TFRS_recommendation_template.ipynb](../material/deep_learning/TFRS_recommendation_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/TFRS_recommendation_template.ipynb)
+        - 영상 검색 : [image_search_by_ConvAutoEncoder.ipynb](../material/deep_learning/image_search_by_ConvAutoEncoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/image_search_by_ConvAutoEncoder.ipynb)  
+        - 소리 검색 : [sound_search_urban_sound.ipynb](../material/deep_learning/sound_search_urban_sound.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/sound_search_urban_sound.ipynb)
+    - 노이즈 제거 : [denoising_autoencoder.ipynb](../material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/denoising_autoencoder.ipynb)
+    - 이상탐지
+        - 이상탐지 기반 원리
+        - 속성 데이터 이상 탐지 : [financial_data_detect_fraud_card.ipynb](../material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
+        - 영상 데이터 이상 탐지 : [anomaly_detection_fahsion_mnist.ipynb](../material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) 
+
+  - 포즈 추출 : [open_pose_using_template.ipynb](../material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/open_pose_using_template.ipynb)
+  - 스타일 변환 : https://www.tensorflow.org/tutorials/generative/style_transfer?hl=ko
+- 기타
+    - GAN
+    - 강화 학습
+    - 알파고의 이해
 
 
 
