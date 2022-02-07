@@ -11,7 +11,7 @@
     - Colab : https://colab.research.google.com/
 - 필요 라이브러리들 [libray_for_deep_learning.md](libray_for_deep_learning.md)
 - Keras를 사용한 DNN : [dnn_in_keras.ipynb](../material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_in_keras.ipynb)
-    - 기본 구조 : compile, fit, train, evaluate, predict
+    - 기본 구조 : compile, fit, evaluate, predict
     - 데이터 준비. train, test
     - 로스 그래프 읽기
     - 입력 출력 모양과 모델 구조
