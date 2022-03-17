@@ -2,31 +2,12 @@
 
 <br>
 
-# 일자별 교육 내용
-
-- 1일차
-    - Numpy
-- 2일차
-    - Pandas
-- 3일차
-    - Matplot
-- 4일차
-    - Seaborn
-    - 데이터 처리 방법 
-- 5일차
-    - Pandas-profiling
-    - EDA 실습
-
-<br>
-
 # Numpy
 
 - 실습 자료
     - [numpy_for_deep_learning.ipynb](library/numpy_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/numpy_for_deep_learning.ipynb)
     - [numpy_quiz_for_deeplearning.ipynb](library/numpy_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/numpy_quiz_for_deeplearning.ipynb)
 
-- 실습 내용
-    - [20211123_numpy_실습.ipynb](library/practice/20211123_numpy_실습.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/practice/20211123_numpy_실습.ipynb)
 
 - 참고 자료
     - API : https://docs.scipy.org/doc/numpy/genindex.html
@@ -45,9 +26,6 @@
 - 실습 자료
     - [pandas_for_deep_learning.ipynb](library/pandas_for_deep_learning.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/pandas_for_deep_learning.ipynb)
 
-- 실습 내용
-    - [20211123_pandas_실습.ipynb](library/practice/20211123_pandas_실습.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/practice/20211123_pandas_실습.ipynb)
-    - [20211124_pandas_실습.ipynb](library/practice/20211124_pandas_실습.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/practice/20211124_pandas_실습.ipynb)
 
 - 참고 자료
     - 공식 홈의 10분 요약 : https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
@@ -68,9 +46,6 @@
     - [matplot_for_deep_learning.ipynb](library/matplot_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/matplot_for_deep_learning.ipynb)
     - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/matplot_quiz_for_deeplearning.ipynb)
 
-- 실습 내용
-    - [20211125_matplot_실습.ipynb](library/practice/20211125_matplot_실습.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/practice/20211125_matplot_실습.ipynb)
-    - [20211124_matplot_실습.ipynb](library/practice/20211124_matplot_실습.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/practice/20211124_matplot_실습.ipynb)
 
 - 참고 자료
     - matplotlib 홈 : https://matplotlib.org/
@@ -90,9 +65,6 @@
 - 실습 자료
     - [seaborn_for_deep_learning.ipynb](library/seaborn_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/seaborn_for_deep_learning.ipynb)
 
-- 실습 내용
-    - [20211125_seaborn_실습.ipynb](library/practice/20211125_seaborn_실습.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/practice/20211125_seaborn_실습.ipynb)
-    - [20211126_seaborn_실습.ipynb](library/practice/20211126_seaborn_실습.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/MDC_2021/blob/main/material/library/practice/20211126_seaborn_실습.ipynb)
 
 - 참고자료
     - Seaborn 홈 : https://seaborn.pydata.org/
