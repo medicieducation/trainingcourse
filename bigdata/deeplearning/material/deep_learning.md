@@ -13,13 +13,13 @@
 - Keras를 사용한 DNN : [dnn_in_keras.ipynb](../material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_in_keras.ipynb)
     - 기본 구조 : compile, fit, evaluate, predict
     - 데이터 준비. train, test
-    - 로스 그래프 읽기
+    - 로스 그래프 그리기
     - 입력 출력 모양과 모델 구조
     - 에폭, batch_size와 성능
 - 성능
     - 오버피팅 개요
     - 오버피팅 완화법 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_in_keras_overfitting.ipynb)
-    - callback : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_in_keras_overfitting.ipynb)
+    - callback : [dnn_in_keras_callback.ipynb](../material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_in_keras_callback.ipynb)
 - 성능 측정
     - 지표 종류
     - 보고서 작성을 위한 AUC, ROC, confusion matrix : [roc_auc_confusion_matric.ipynb](../material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/roc_auc_confusion_matric.ipynb)
