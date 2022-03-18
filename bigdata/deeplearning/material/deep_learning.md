@@ -16,6 +16,7 @@
     - 로스 그래프 그리기
     - 입력 출력 모양과 모델 구조
     - 에폭, batch_size와 성능
+    - shuffle, optimier 적용
 - 성능
     - 오버피팅 개요
     - 오버피팅 완화법 : [dnn_in_keras_overfitting.ipynb](../material/deep_learning/dnn_in_keras_overfitting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_in_keras_overfitting.ipynb)
