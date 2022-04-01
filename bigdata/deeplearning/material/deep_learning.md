@@ -27,7 +27,7 @@
 - 데이터
     - 기본 작업(회귀와 분류)과 활용 작업
     - 데이터 종류와 작업
-    - 데이터 전처리 4가지
+    - 데이터 전처리 4가지 : [flawed_iris_preprocessing.ipynb](library/flawed_iris_preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/library/flawed_iris_preprocessing.ipynb)
     - Data Generator : [custom_data_generator.ipynb](../material/deep_learning/custom_data_generator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/custom_data_generator.ipynb)
     - TensorFlow DataSet : [tensorflow_data_tfds.ipynb](../material/deep_learning/tensorflow_data_tfds.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/tensorflow_data_tfds.ipynb)
     - ImageDataGenerator : [data_augmentation_using_ImageDadtaGenerator.ipynb](../material/deep_learning/data_augmentation_using_ImageDadtaGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/data_augmentation_using_ImageDadtaGenerator.ipynb) 
