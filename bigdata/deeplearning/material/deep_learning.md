@@ -42,6 +42,7 @@
     - 2진 분류 : [template_attribute_data_binary_classification.ipynb](../material/deep_learning/template_attribute_data_binary_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_attribute_data_binary_classification.ipynb)    
 - 영상 데이터
     - 영상 데이터의 이해
+        - 영상 데이터 분류 : [dnn_mnist.ipynb](../material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/dnn_mnist.ipynb) 
     - CNN 소개
     - 영상 데이터 증강 : [data_augmentation_using_ImageDadtaGenerator.ipynb](../material/deep_learning/data_augmentation_using_ImageDadtaGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/data_augmentation_using_ImageDadtaGenerator.ipynb) 
     - crop and resize : [image_crop_and_resize.ipynb](../material/deep_learning/image_crop_and_resize.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/image_crop_and_resize.ipynb) 
