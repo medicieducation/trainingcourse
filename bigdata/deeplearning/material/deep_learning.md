@@ -55,6 +55,7 @@
     - 2진 분류 - 전이학습 : [template_image_data_transfer_learning_binary_classification.ipynb](../material/deep_learning/template_image_data_transfer_learning_binary_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_image_data_transfer_learning_binary_classification.ipynb)
 - 순차열 데이터
     - 순차열 데이터의 이해
+        - 순차열 데이터 처리 : [treating_sequence_data.ipynb](../material/deep_learning/treating_sequence_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/treating_sequence_data.ipynb)
     - RNN 소개
     - 숫자열
         - 단일 숫자열 예측 : [template_numeric_sequence_data_prediction.ipynb](../material/deep_learning/template_numeric_sequence_data_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/template_numeric_sequence_data_prediction.ipynb)
