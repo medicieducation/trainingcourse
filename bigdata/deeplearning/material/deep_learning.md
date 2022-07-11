@@ -77,10 +77,15 @@
     - Bert를 사용한 한글 문장 간 관계값 예측 : [korean_sentence_relation_regression_with_bert.ipynb](../material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb)
 - 작업 별
     - 물체 탐지
+        - 기존 모델 실행
+            - darknet으로 물체 탐지 : [object_detection_yolo_darknet.ipynb](../material/deep_learning/object_detection_yolo_darknet.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/main/bigdata/deeplearning/material/deep_learning/object_detection_yolo_darknet.ipynb)
+            - keras로 물체 탐지 : [keras_yolov3.ipynb](../material/deep_learning/keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/main/bigdata/deeplearning/material/deep_learning/keras_yolov3.ipynb)
         - 데이터 준비와 레이블링
+            - 너구리 데이터 : [Raccoon.zip][../material/deep_learning/data/Raccoon.zip]
+            - 레이블링 가이드 by makesense : [yolo_labeling_guide_by_makesense.pdf](yolo_labeling_guide_by_makesense.pdf)        
         - 학습 실행과 사용
-            -  학습 : [train_yolov3_raccoon_train.ipynb](train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/train_yolov3_raccoon_train.ipynb)
-            - 탐지 실행 : [keras_yolov3_custom_model.ipynb](keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/keras_yolov3_custom_model.ipynb)
+            -  학습 : [train_yolov3_raccoon_train.ipynb](../material/deep_learning/train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/train_yolov3_raccoon_train.ipynb)
+            - 탐지 실행 : [keras_yolov3_custom_model.ipynb](../material/deep_learning/keras_yolov3_custom_model.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/keras_yolov3_custom_model.ipynb)
 
     - 영상 영역 분할
         - U-Net을 사용한 영상 분할 : [unet_segementation.ipynb](../material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_segementation.ipynb)
