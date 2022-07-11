@@ -81,7 +81,7 @@
             - darknet으로 물체 탐지 : [object_detection_yolo_darknet.ipynb](../material/deep_learning/object_detection_yolo_darknet.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/object_detection_yolo_darknet.ipynb)
             - keras로 물체 탐지 : [keras_yolov3.ipynb](../material/deep_learning/keras_yolov3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/keras_yolov3.ipynb)
         - 데이터 준비와 레이블링
-            - 너구리 데이터 : [Raccoon.zip](./material/deep_learning/data/Raccoon.zip)
+            - 너구리 데이터 : [Raccoon.zip](../material/deep_learning/data/Raccoon.zip)
             - 레이블링 가이드 by makesense : [yolo_labeling_guide_by_makesense.pdf](yolo_labeling_guide_by_makesense.pdf)        
         - 학습 실행과 사용
             -  학습 : [train_yolov3_raccoon_train.ipynb](../material/deep_learning/train_yolov3_raccoon_train.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/train_yolov3_raccoon_train.ipynb)
