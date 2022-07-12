@@ -89,10 +89,8 @@
 
     - 영상 영역 분할
         - U-Net을 사용한 영상 분할 : [unet_segementation.ipynb](../material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_segementation.ipynb)
-            - U-Net을 사용한 영상 분할 실습 - 거리 영상 : [unet_setmentation_practice.ipynb](../material/deep_learning/unet_setmentation_practice.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_setmentation_practice.ipynb)
-            - U-Net을 사용한 영상 분할 실습 - MRI : [MRI_images.zip](https://github.com/dhrim/deep_learning_data/raw/master/MRI_images.zip)        
-        - M-Net을 사용한 영상 분할 : [mnet_segementation.ipynb](../material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/mnet_segementation.ipynb)
         - U-Net을 사용한 컬러 영상 분할 : [unet_segementation_color_image.ipynb](../material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/unet_segementation_color_image.ipynb)      
+        - M-Net을 사용한 영상 분할 : [mnet_segementation.ipynb](../material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/mnet_segementation.ipynb)
 
     - 추천
         - 추천 기반 원리 : [recommendation.ipynb](../material/deep_learning/recommendation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/recommendation.ipynb) 
