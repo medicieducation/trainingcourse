@@ -105,8 +105,12 @@
         - 영상 검색 : [image_search_by_ConvAutoEncoder.ipynb](../material/deep_learning/image_search_by_ConvAutoEncoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/image_search_by_ConvAutoEncoder.ipynb)  
         - 소리 검색 : [sound_search_urban_sound.ipynb](../material/deep_learning/sound_search_urban_sound.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/sound_search_urban_sound.ipynb)
 
+    - AutoEncoder 활용
+        - AutoEncoder : [autoencoder.ipynb](../material/deep_learning/autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/autoencoder.ipynb)  
+        - 노이즈 제거 : [denoising_autoencoder.ipynb](../material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/denoising_autoencoder.ipynb)  
+        - 해상도 증대 : [mnist_super_resolution.ipynb](../material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/mnist_super_resolution.ipynb) 
+
     - 이상탐지
-        - 이상탐지 기반 원리
         - 속성 데이터 이상 탐지 : [financial_data_detect_fraud_card.ipynb](../material/deep_learning/financial_data_detect_fraud_card.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/financial_data_detect_fraud_card.ipynb) 
         - 영상 데이터 이상 탐지 : [anomaly_detection_fahsion_mnist.ipynb](../material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) 
 
