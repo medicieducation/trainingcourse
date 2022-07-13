@@ -119,8 +119,9 @@
 
 - 기타
     - GAN
+        - CIAR10 WGAN-GP : [wgan_gp_cifar10.ipynb](../material/deep_learning/wgan_gp_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medicieducation/trainingcourse/blob/main/bigdata/deeplearning/material/deep_learning/wgan_gp_cifar10.ipynb)
     - 강화 학습
-    - 알파고의 이해
+    - 알파고의 이해 : [understanding_alphago.pptx](../material/deep_learning/understanding_alphago.pptx)
 
 
 
